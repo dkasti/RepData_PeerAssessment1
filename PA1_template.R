@@ -1,0 +1,5 @@
+setwd("~/Google Drive/Coursera/Reproducible Research/Data and Assignments/Course Project 1")
+activity <- read.csv('activity.csv')
+str(activity)
+head(activity)
+head(activity,289)
